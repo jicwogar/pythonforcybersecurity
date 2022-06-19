@@ -3,7 +3,7 @@
 # import necessary modules
 
 import base64
-from cmath import e
+
 
 def encode_data(plain_text):
     # convert pain_text and encode it
